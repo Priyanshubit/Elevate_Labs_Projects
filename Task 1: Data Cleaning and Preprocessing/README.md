@@ -32,5 +32,11 @@ Raw datasets often contain **inconsistencies, null values, and noise**, making t
 ---
 
 ## 📂 Repository Structure  
+📁 Task 1: Data Cleaning and Preprocessing
+│── Jupyter file.ipynb # Notebook with all cleaning steps
+│── README.md # Project documentation
+│── Summary.pdf # PDF summary of findings & steps
+│── netflix_titles.csv # Original dataset
+│── cleaned_netflix_titles.xls # Cleaned dataset (final output)
 
 

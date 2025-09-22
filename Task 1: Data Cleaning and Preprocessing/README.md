@@ -1,6 +1,6 @@
 # 🎬 Data Cleaning and Preprocessing – Netflix Titles Dataset  
 
-This project focuses on **data cleaning and preprocessing** of the Netflix Titles dataset to prepare it for further analysis and visualization.  
+This project focuses on **data cleaning and preprocessing** of the Netflix Titles dataset to prepare it for further analysis.  
 The primary goal is to handle **missing values, duplicates, formatting issues, and standardization** so the dataset becomes analysis-ready.  
 
 ---
@@ -25,8 +25,7 @@ Raw datasets often contain **inconsistencies, null values, and noise**, making t
 - **Converted data types** (dates to `datetime`, numeric conversion).  
 
 ### 🔹 3. Feature Engineering  
-- Extracted **Year, Month** from `date_added`.  
-- Separated **multiple countries/genres** into structured formats.  
+- Extracted **Year from `date_added`.   
 - Created additional cleaned files (`cleaned_netflix_titles.xls`).  
 
 ---

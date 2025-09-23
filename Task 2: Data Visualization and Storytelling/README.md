@@ -1,14 +1,20 @@
-
 **🚀 Superstore Project: Retail Business Analysis 📊**
+
+
 
 **📁 Repository Structure**
 
 📂 Sample superstoe: Cleaned CSV File📄
-📂 Capstone Project: Power Bi Dashboard 🧠
+
+📂 Capstone Project: Power Bi File🧠
+
+📂 Project Dashboard: Power Bi Dashboard🧠
+
 📂 Screenshot: Dashboard Image 🐍
-📂 📈
-📂  💡
+
 📄 README.md	You’re here! 👋
+
+
 
 **🧱 Project Architecture**
 
@@ -18,6 +24,7 @@ Raw data files
 Renamed columns to remove spaces
 
 Prepared for SQL ingestion
+
 
 **2️⃣ Exploratory Data Analysis**
 EDA:
@@ -44,6 +51,8 @@ Created interactive dashboard:
 
 🎯 Gauges for Total vs Monthly Orders
 
+
+
 **4️⃣ Insights 🧠**
 Derived key business insights:
 
@@ -55,8 +64,11 @@ Derived key business insights:
 
 📦 Inventory to optimize based on performance and returns
 
+
+
 🔚 Final Words
 This project is a real-world simulation of a retail analytics solution designed from scratch, covering:
+
 ✔️ Data Cleaning
 ✔️ SQL Modeling
 ✔️ Python Analysis
